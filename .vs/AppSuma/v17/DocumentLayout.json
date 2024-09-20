@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacion 2\\Seccion 2 Algoritmos\\AppSuma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E3FD0D-1853-4280-8B3E-C5991FB12C35}|AppSuma\\AppSuma.csproj|d:\\programacion 2\\seccion 2 algoritmos\\appsuma\\appsuma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E3FD0D-1853-4280-8B3E-C5991FB12C35}|AppSuma\\AppSuma.csproj|solutionrelative:appsuma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programacion 2\\Seccion 2 Algoritmos\\AppSuma\\AppSuma\\Program.cs",
+              "RelativeDocumentMoniker": "AppSuma\\Program.cs",
+              "ToolTip": "D:\\Programacion 2\\Seccion 2 Algoritmos\\AppSuma\\AppSuma\\Program.cs",
+              "RelativeToolTip": "AppSuma\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:50:58.566Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

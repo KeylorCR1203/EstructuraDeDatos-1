@@ -1,0 +1,7 @@
+D:\Programacion 2\Seccion 2 Algoritmos\AppSuma\AppSuma\obj\Debug\AppSuma.csproj.AssemblyReference.cache
+D:\Programacion 2\Seccion 2 Algoritmos\AppSuma\AppSuma\obj\Debug\AppSuma.csproj.CoreCompileInputs.cache
+D:\Programacion 2\Seccion 2 Algoritmos\AppSuma\AppSuma\bin\Debug\AppSuma.exe.config
+D:\Programacion 2\Seccion 2 Algoritmos\AppSuma\AppSuma\bin\Debug\AppSuma.exe
+D:\Programacion 2\Seccion 2 Algoritmos\AppSuma\AppSuma\bin\Debug\AppSuma.pdb
+D:\Programacion 2\Seccion 2 Algoritmos\AppSuma\AppSuma\obj\Debug\AppSuma.exe
+D:\Programacion 2\Seccion 2 Algoritmos\AppSuma\AppSuma\obj\Debug\AppSuma.pdb
